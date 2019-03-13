@@ -1,4 +1,4 @@
-# Warbands-Tracker-alexa-skill
+# Runescape-Tools-alexa-skill
 A skill that will be able to return the time for the next warbands from the popular MMORPG Runescape
 
 For now this Runescape skill will be able to track the wilderness warbands times. However I'm planning to add support for other utilities in Runescape
