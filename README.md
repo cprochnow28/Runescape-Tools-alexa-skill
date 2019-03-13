@@ -6,103 +6,103 @@ For now this Runescape skill will be able to track the wilderness warbands times
 
 
 # Current Packages in my venv that I used
-* bullet list
-aniso8601==1.2.0
 
-argcomplete==1.9.3
+*aniso8601==1.2.0
 
-asn1crypto==0.24.0
+*argcomplete==1.9.3
 
-awscli==1.16.122
+*asn1crypto==0.24.0
 
-boto3==1.9.112
+*awscli==1.16.122
 
-botocore==1.12.112
+*boto3==1.9.112
 
-certifi==2019.3.9
+*botocore==1.12.112
 
-cffi==1.12.2
+*certifi==2019.3.9
 
-cfn-flip==1.1.0.post1
+*cffi==1.12.2
 
-chardet==3.0.4
+*cfn-flip==1.1.0.post1
 
-Click==7.0
+*chardet==3.0.4
 
-colorama==0.3.9
+*Click==7.0
 
-cryptography==2.1.4
+*colorama==0.3.9
 
-docutils==0.14
+*cryptography==2.1.4
 
-durationpy==0.5
+*docutils==0.14
 
-Flask==0.12.1
+*durationpy==0.5
 
-Flask-Ask==0.9.7
+*Flask==0.12.1
 
-future==0.16.0
+*Flask-Ask==0.9.7
 
-get==2018.11.19
+*future==0.16.0
 
-hjson==3.0.1
+*get==2018.11.19
 
-idna==2.8
+*hjson==3.0.1
 
-itsdangerous==1.1.0
+*idna==2.8
 
-Jinja2==2.10
+*itsdangerous==1.1.0
 
-jmespath==0.9.3
+*Jinja2==2.10
 
-kappa==0.6.0
+*jmespath==0.9.3
 
-lambda-packages==0.20.0
+*kappa==0.6.0
 
-MarkupSafe==1.1.1
+*lambda-packages==0.20.0
 
-placebo==0.9.0
+*MarkupSafe==1.1.1
 
-post==2018.11.20
+*placebo==0.9.0
 
-public==2018.11.20
+*post==2018.11.20
 
-pyasn1==0.4.5
+*public==2018.11.20
 
-pycparser==2.19
+*pyasn1==0.4.5
 
-pyOpenSSL==17.0.0
+*pycparser==2.19
 
-python-dateutil==2.6.1
+*pyOpenSSL==17.0.0
 
-python-slugify==1.2.4
+*python-dateutil==2.6.1
 
-PyYAML==3.13
+*python-slugify==1.2.4
 
-query-string==2018.11.20
+*PyYAML==3.13
 
-request==2018.11.20
+*query-string==2018.11.20
 
-requests==2.21.0
+*request==2018.11.20
 
-rsa==3.4.2
+*requests==2.21.0
 
-s3transfer==0.2.0
+*rsa==3.4.2
 
-six==1.12.0
+*s3transfer==0.2.0
 
-toml==0.10.0
+*six==1.12.0
 
-tqdm==4.19.1
+*toml==0.10.0
 
-troposphere==2.4.5
+*tqdm==4.19.1
 
-Unidecode==1.0.23
+*troposphere==2.4.5
 
-urllib3==1.24.1
+*Unidecode==1.0.23
 
-Werkzeug==0.14.1
+*urllib3==1.24.1
 
-wsgi-request-logger==0.4.6
+*Werkzeug==0.14.1
 
-zappa==0.47.1
+*wsgi-request-logger==0.4.6
+
+*zappa==0.47.1
